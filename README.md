@@ -1,8 +1,9 @@
 # websetup.sh
-You can run on your terminal using its relative path, "./opt/script/websetup.sh"
+Run "chmod +x "/opt/script/websetup.sh" to gain access
+Install using its relative path, "./opt/script/websetup.sh"
 
 To test, run "ifconfig" on your terminal and copy the IP address. 
-Paste the IP address on your browser to see the hosted website
+Paste the IP address on your browser to see your hosted website
 
 
 
